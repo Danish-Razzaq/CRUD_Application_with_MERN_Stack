@@ -1,5 +1,4 @@
 
-```markdown
 # CRUD Application with MERN Stack
 
 ## Introduction
