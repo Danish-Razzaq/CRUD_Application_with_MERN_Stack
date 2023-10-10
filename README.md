@@ -21,7 +21,8 @@ Before getting started, ensure that you have the following prerequisites install
 1. Clone the repository:
 
 ```bash
-git clone <(https://github.com/Danish-Razzaq/CRUD_Application_with_MERN_Stack.git)>
+git clone https://github.com/Danish-Razzaq/CRUD_Application_with_MERN_Stack.git
+
 
 ```
 
