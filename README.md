@@ -5,7 +5,10 @@
 
 This is a CRUD (Create, Read, Update, Delete) application built with the MERN (MongoDB, Express, React, Node.js) stack. It provides functionality for managing data using Material-UI for styling.
 
-![Application Screenshot](insert_url_to_your_application_screenshot_here)
+
+https://github.com/Danish-Razzaq/CRUD_Application_with_MERN_Stack/assets/125806096/fa70ad29-b3b1-4aa4-a4a4-6dc49be18bd2
+
+
 
 ## Requirements
 
@@ -64,4 +67,4 @@ This project uses the following technologies:
 - **Database:** MongoDB
 
 Don't forget to give this project a star if you find it useful! ⭐🤗
-```
+
